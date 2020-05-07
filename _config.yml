@@ -17,10 +17,10 @@ sidebar-avatar: /img/about-lzy.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
+RSS: true
 # zhihu_username:     刘政永
 # github_username:    lzy20051028
-
+# WeChat_username:    liuzhengyong2013
 
 
 
